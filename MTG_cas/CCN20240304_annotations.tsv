@@ -1,0 +1,161 @@
+cell_set_accession	cell_label	cell_fullname	parent_cell_set_accession	parent_cell_set_name	labelset	cell_ontology_term_id	cell_ontology_term	rationale	rationale_dois	marker_gene_evidence	synonyms
+b15b444731	Vip_2	Vip_2	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+83796aa6d9	Sst_11	Sst_11	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+8c25f3eded	Sst_31	Sst_31	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+319ad7ab6a	Sst_37	Sst_37	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+51b6c3ddc3	L6 CT_3	L6 CT_3	d4ee4a2c4c	L6 CT	CrossArea_cluster	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron				
+598e73ea5c	L5 IT_6	L5 IT_6	c6694cb883	L5 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+7f1d552abb	Pax6_4	Pax6_4	ae541c9995	Pax6	CrossArea_cluster	CL:4023070	caudal ganglionic eminence derived GABAergic cortical interneuron				
+5a80bb5c5f	Vip_26	Vip_26	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+efce202ce0	Vip_14	Vip_14	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+61a9a7b28a	Lamp5_4	Lamp5_4	89f956fe2e	Lamp5	CrossArea_cluster	CL:4023011	lamp5 GABAergic cortical interneuron				
+aa43d1e6ea	Sst_7	Sst_7	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+6542295a47	L2/3 IT_1	L2/3 IT_1	58570ade17	L2/3 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+316e2e1a0c	Vip_23	Vip_23	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+d0ac40165a	L6b_2	L6b_2	7b6e7cc097	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
+f5f977964d	L6 IT Car3_2	L6 IT Car3_2	bbbf984b37	L6 IT Car3	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+27c6e4fc92	Pvalb_6	Pvalb_6	5bcef2988c	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
+d0fd6e5a6f	L6b_1	L6b_1	7b6e7cc097	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
+2d05d86ec9	L6b_6	L6b_6	7b6e7cc097	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
+39748f5aee	Lamp5_1	Lamp5_1	89f956fe2e	Lamp5	CrossArea_cluster	CL:4023011	lamp5 GABAergic cortical interneuron				
+3fde1e0b1a	Astro_2	Astro_2	e47396020a	Astro	CrossArea_cluster	CL:0002605	astrocyte of the cerebral cortex				
+96c2933055	Sst_24	Sst_24	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+20c162e045	Vip_13	Vip_13	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+d78b58628c	Sst_2	Sst_2	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+6bcc705d41	L5 ET_2	L5 ET_2	22d2c49ff6	L5 ET	CrossArea_cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
+5a405a94ad	Sst_4	Sst_4	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+4a4d733723	L5 IT_2	L5 IT_2	c6694cb883	L5 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+149f7d8007	Chandelier_1	Chandelier_1	149f7d8007	Chandelier	CrossArea_cluster	CL:4023036	chandelier pvalb GABAergic cortical interneuron				
+9ad3b352d8	Pax6_2	Pax6_2	ae541c9995	Pax6	CrossArea_cluster	CL:4023070	caudal ganglionic eminence derived GABAergic cortical interneuron				
+d79db924d1	L6 IT Car3_1	L6 IT Car3_1	bbbf984b37	L6 IT Car3	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+2b1bafe92a	Lamp5_5	Lamp5_5	89f956fe2e	Lamp5	CrossArea_cluster	CL:4023011	lamp5 GABAergic cortical interneuron				
+8e4581b5e4	Vip_19	Vip_19	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+eed2384899	L5 IT_1	L5 IT_1	c6694cb883	L5 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+18d4c0621a	L5/6 NP_5	L5/6 NP_5	2d233a9ab8	L5/6 NP	CrossArea_cluster	CL:4023012	near-projecting glutamatergic cortical neuron				
+8a2783afdd	Pvalb_3	Pvalb_3	5bcef2988c	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
+dc93203f6a	Vip_1	Vip_1	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+2444371685	L4 IT_1	L4 IT_1	0533b137f6	L4 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+2ec1a26a0c	Vip_27	Vip_27	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+350de124d8	Sst_10	Sst_10	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+b1e1a432b3	Vip_3	Vip_3	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+23eab0810b	Vip_7	Vip_7	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+aa23d9f904	Lamp5_7	Lamp5_7	89f956fe2e	Lamp5	CrossArea_cluster	CL:4023011	lamp5 GABAergic cortical interneuron				
+f9b9c17224	Vip_25	Vip_25	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+036b11ab2d	Sst_28	Sst_28	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+ef63dfbe82	Endo_2	Endo_2	48e48631ba	Endo	CrossArea_cluster	CL:1001602	cerebral cortex endothelial cell				
+9cb987abaa	Oligo_4	Oligo_4	491edde6ce	Oligo	CrossArea_cluster	CL:0000128	oligodendrocyte				
+9a5d042bff	L2/3 IT_6	L2/3 IT_6	58570ade17	L2/3 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+032e18f9fd	Pvalb_9	Pvalb_9	5bcef2988c	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
+fc6a29c7e8	L5/6 NP_4	L5/6 NP_4	2d233a9ab8	L5/6 NP	CrossArea_cluster	CL:4023012	near-projecting glutamatergic cortical neuron				
+f916dab29e	Endo_1	Endo_1	48e48631ba	Endo	CrossArea_cluster	CL:1001602	cerebral cortex endothelial cell				
+0bb0eed4f8	L6b_4	L6b_4	7b6e7cc097	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
+828969eb68	VLMC_2	VLMC_2	f6b98fd9f4	VLMC	CrossArea_cluster	CL:4023051	vascular leptomeningeal cell				
+72564f5b41	Sst_15	Sst_15	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+bd93ec98b1	Sst Chodl_1	Sst Chodl_1	bd93ec98b1	Sst Chodl	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+d99d4ffcff	Vip_22	Vip_22	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+09c28f8311	Vip_18	Vip_18	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+df72fb8ebb	Sst_32	Sst_32	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+c3c07495bc	Sst_23	Sst_23	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+2a901fafe4	L5 ET_3	L5 ET_3	22d2c49ff6	L5 ET	CrossArea_cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
+da036a1604	L5 IT_3	L5 IT_3	c6694cb883	L5 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+4062c5afea	Sst_14	Sst_14	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+a5987e46ff	Lamp5_6	Lamp5_6	89f956fe2e	Lamp5	CrossArea_cluster	CL:4023011	lamp5 GABAergic cortical interneuron				
+d16f72e3ed	Sst_35	Sst_35	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+505edf53db	Vip_8	Vip_8	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+c1ffb09828	Lamp5_3	Lamp5_3	89f956fe2e	Lamp5	CrossArea_cluster	CL:4023011	lamp5 GABAergic cortical interneuron				
+af95a330e7	Vip_29	Vip_29	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+1ab5b63dd4	Sst_25	Sst_25	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+c870935ecd	L6 CT_1	L6 CT_1	d4ee4a2c4c	L6 CT	CrossArea_cluster	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron				
+c199218811	Lamp5 Lhx6_1	Lamp5 Lhx6_1	c199218811	Lamp5 Lhx6	CrossArea_cluster	CL:4023011	lamp5 GABAergic cortical interneuron				
+2f08378efa	Astro_3	Astro_3	e47396020a	Astro	CrossArea_cluster	CL:0002605	astrocyte of the cerebral cortex				
+eee76b2208	Sst_17	Sst_17	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+c345a40015	Sst_8	Sst_8	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+d6ef7e7411	L6 IT_2	L6 IT_2	d6ef7e7411	L6 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+f8aaa7c13b	Vip_9	Vip_9	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+5708eec543	Pvalb_5	Pvalb_5	5bcef2988c	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
+f9282ba126	Astro_1	Astro_1	e47396020a	Astro	CrossArea_cluster	CL:0002605	astrocyte of the cerebral cortex				
+5317dd19f8	Micro/PVM_1	Micro/PVM_1	5317dd19f8	Micro/PVM	CrossArea_cluster	CL:0000129	microglial cell				
+b95700fd02	Sst_9	Sst_9	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+1332a8cc9b	Sst_22	Sst_22	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+00d68f69b0	Vip_11	Vip_11	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+bc7e4b6c24	Sst_18	Sst_18	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+1b0d7550d1	Vip_20	Vip_20	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+5246f56660	Vip_24	Vip_24	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+f2ca68afdd	Sncg_7	Sncg_7	069c284831	Sncg	CrossArea_cluster	CL:4023015	sncg GABAergic cortical interneuron				
+020e16d80d	Sncg_6	Sncg_6	069c284831	Sncg	CrossArea_cluster	CL:4023015	sncg GABAergic cortical interneuron				
+3818d9a747	Sst_33	Sst_33	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+ee26fb71c0	Sst_27	Sst_27	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+c200f89181	Vip_6	Vip_6	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+2248d64712	Sncg_4	Sncg_4	069c284831	Sncg	CrossArea_cluster	CL:4023015	sncg GABAergic cortical interneuron				
+3d8ed28dce	L6b_5	L6b_5	7b6e7cc097	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
+e846273c6d	Sst_16	Sst_16	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+2432bbaf2f	Sncg_2	Sncg_2	069c284831	Sncg	CrossArea_cluster	CL:4023015	sncg GABAergic cortical interneuron				
+bf85c51a60	L6b_3	L6b_3	7b6e7cc097	L6b	CrossArea_cluster	CL:4023038	L6b glutamatergic cortical neuron				
+7d6bd17afd	Pvalb_2	Pvalb_2	5bcef2988c	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
+95c79fdfb6	L5 ET_1	L5 ET_1	22d2c49ff6	L5 ET	CrossArea_cluster	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
+1ba29c1831	Sst_30	Sst_30	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+2979e48992	Sst_36	Sst_36	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+e032fed1ff	Sst_19	Sst_19	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+55df9c7a62	Vip_21	Vip_21	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+dd29875b26	Vip_10	Vip_10	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+b503e0552d	Pvalb_8	Pvalb_8	5bcef2988c	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
+57b7077eb3	Sst_12	Sst_12	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+62f605b27b	Lamp5_2	Lamp5_2	89f956fe2e	Lamp5	CrossArea_cluster	CL:4023011	lamp5 GABAergic cortical interneuron				
+f2544e80bd	Vip_16	Vip_16	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+1b1d42bb38	VLMC_1	VLMC_1	f6b98fd9f4	VLMC	CrossArea_cluster	CL:4023051	vascular leptomeningeal cell				
+bb6b34bb75	Sst_21	Sst_21	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+ee6c343339	L2/3 IT_5	L2/3 IT_5	58570ade17	L2/3 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+60c1359ced	Vip_17	Vip_17	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+b7f96a3ce8	Vip_28	Vip_28	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+23cd3410a3	Pax6_1	Pax6_1	ae541c9995	Pax6	CrossArea_cluster	CL:4023070	caudal ganglionic eminence derived GABAergic cortical interneuron				
+b80b39b1a4	Sst_26	Sst_26	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+8fc5fda528	Vip_4	Vip_4	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+d90838ad00	Pax6_3	Pax6_3	ae541c9995	Pax6	CrossArea_cluster	CL:4023070	caudal ganglionic eminence derived GABAergic cortical interneuron				
+c6c180cbfb	Pvalb_4	Pvalb_4	5bcef2988c	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
+58a77f6cf5	Oligo_3	Oligo_3	491edde6ce	Oligo	CrossArea_cluster	CL:0000128	oligodendrocyte				
+1f55cdee93	Sncg_3	Sncg_3	069c284831	Sncg	CrossArea_cluster	CL:4023015	sncg GABAergic cortical interneuron				
+468bc905ee	Sncg_1	Sncg_1	069c284831	Sncg	CrossArea_cluster	CL:4023015	sncg GABAergic cortical interneuron				
+271c821e54	Astro_5	Astro_5	e47396020a	Astro	CrossArea_cluster	CL:0002605	astrocyte of the cerebral cortex				
+b1e0564a96	Sst_5	Sst_5	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+a4c8c5f791	Sncg_8	Sncg_8	069c284831	Sncg	CrossArea_cluster	CL:4023015	sncg GABAergic cortical interneuron				
+651d65e7d6	Oligo_2	Oligo_2	491edde6ce	Oligo	CrossArea_cluster	CL:0000128	oligodendrocyte				
+d1cfcee899	L5/6 NP_1	L5/6 NP_1	2d233a9ab8	L5/6 NP	CrossArea_cluster	CL:4023012	near-projecting glutamatergic cortical neuron				
+d45350b46b	Astro_4	Astro_4	e47396020a	Astro	CrossArea_cluster	CL:0002605	astrocyte of the cerebral cortex				
+c811b178ce	Sst_29	Sst_29	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+048c1cc9cc	L4 IT_5	L4 IT_5	0533b137f6	L4 IT	CrossArea_cluster	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+647048a1c1	Oligo_1	Oligo_1	491edde6ce	Oligo	CrossArea_cluster	CL:0000128	oligodendrocyte				
+9ff3aeab79	Vip_5	Vip_5	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+858b345f61	Sst_13	Sst_13	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+4a7329611e	Sncg_5	Sncg_5	069c284831	Sncg	CrossArea_cluster	CL:4023015	sncg GABAergic cortical interneuron				
+8598f6a583	Vip_12	Vip_12	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+bdb83a819a	OPC_1	OPC_1	bdb83a819a	OPC	CrossArea_cluster	CL:0002453	oligodendrocyte precursor cell				
+a137444c83	Pvalb_1	Pvalb_1	5bcef2988c	Pvalb	CrossArea_cluster	CL:4023018	pvalb GABAergic cortical interneuron				
+f006bb33cb	Sst_1	Sst_1	8fa477a378	Sst	CrossArea_cluster	CL:4023017	sst GABAergic cortical interneuron				
+a9449c5502	Vip_15	Vip_15	082c817b6f	Vip	CrossArea_cluster	CL:4023016	vip GABAergic cortical interneuron				
+ae541c9995	Pax6	Pax6	d4ef18755c	inhibitory	CrossArea_subclass	CL:4023070	caudal ganglionic eminence derived GABAergic cortical interneuron				
+c199218811	Lamp5 Lhx6	Lamp5 Lhx6	d4ef18755c	inhibitory	CrossArea_subclass	CL:4023011	lamp5 GABAergic cortical interneuron				
+149f7d8007	Chandelier	Chandelier	d4ef18755c	inhibitory	CrossArea_subclass	CL:4023036	chandelier pvalb GABAergic cortical interneuron				
+7b6e7cc097	L6b	L6b	a85f01df63	excitatory	CrossArea_subclass	CL:4023038	L6b glutamatergic cortical neuron				
+d6ef7e7411	L6 IT	L6 IT	a85f01df63	excitatory	CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+bd93ec98b1	Sst Chodl	Sst Chodl	d4ef18755c	inhibitory	CrossArea_subclass	CL:4023017	sst GABAergic cortical interneuron				
+f6b98fd9f4	VLMC	VLMC	139f0ee50b	non-neuronal	CrossArea_subclass	CL:4023051	vascular leptomeningeal cell				
+5bcef2988c	Pvalb	Pvalb	d4ef18755c	inhibitory	CrossArea_subclass	CL:4023018	pvalb GABAergic cortical interneuron				
+22d2c49ff6	L5 ET	L5 ET	a85f01df63	excitatory	CrossArea_subclass	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
+0533b137f6	L4 IT	L4 IT	a85f01df63	excitatory	CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+58570ade17	L2/3 IT	L2/3 IT	a85f01df63	excitatory	CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+89f956fe2e	Lamp5	Lamp5	d4ef18755c	inhibitory	CrossArea_subclass	CL:4023011	lamp5 GABAergic cortical interneuron				
+bdb83a819a	OPC	OPC	139f0ee50b	non-neuronal	CrossArea_subclass	CL:0002453	oligodendrocyte precursor cell				
+bbbf984b37	L6 IT Car3	L6 IT Car3	a85f01df63	excitatory	CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+2d233a9ab8	L5/6 NP	L5/6 NP	a85f01df63	excitatory	CrossArea_subclass	CL:4023012	near-projecting glutamatergic cortical neuron				
+082c817b6f	Vip	Vip	d4ef18755c	inhibitory	CrossArea_subclass	CL:4023016	vip GABAergic cortical interneuron				
+c6694cb883	L5 IT	L5 IT	a85f01df63	excitatory	CrossArea_subclass	CL:4023040	L2/3-6 intratelencephalic projecting glutamatergic cortical neuron				
+491edde6ce	Oligo	Oligo	139f0ee50b	non-neuronal	CrossArea_subclass	CL:0000128	oligodendrocyte				
+48e48631ba	Endo	Endo	139f0ee50b	non-neuronal	CrossArea_subclass	CL:1001602	cerebral cortex endothelial cell				
+8fa477a378	Sst	Sst	d4ef18755c	inhibitory	CrossArea_subclass	CL:4023017	sst GABAergic cortical interneuron				
+e47396020a	Astro	Astro	139f0ee50b	non-neuronal	CrossArea_subclass	CL:0002605	astrocyte of the cerebral cortex				
+069c284831	Sncg	Sncg	d4ef18755c	inhibitory	CrossArea_subclass	CL:4023015	sncg GABAergic cortical interneuron				
+5317dd19f8	Micro/PVM	Micro/PVM	139f0ee50b	non-neuronal	CrossArea_subclass	CL:0000129	microglial cell				
+d4ee4a2c4c	L6 CT	L6 CT	a85f01df63	excitatory	CrossArea_subclass	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron				
+d4ef18755c	inhibitory	inhibitory			Class	CL:4023011	lamp5 GABAergic cortical interneuron				
+a85f01df63	excitatory	excitatory			Class	CL:4023041	L5 extratelencephalic projecting glutamatergic cortical neuron				
+139f0ee50b	non-neuronal	non-neuronal			Class	CL:0002605	astrocyte of the cerebral cortex				

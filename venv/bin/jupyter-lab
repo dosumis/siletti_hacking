@@ -1,4 +1,4 @@
-#!/Users/aa37/Documents/GitHub/siletti_hacking/venv/bin/python3.9
+#!/Users/aa37/Documents/GitHub/siletti_hacking/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
